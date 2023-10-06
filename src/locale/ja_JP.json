@@ -1,0 +1,135 @@
+{
+  "sign_up_title": "新しいアカウントを作成",
+  "sign_up_email": "Eメール",
+  "sign_up_email_placeholder": "メールアドレスを入力してください",
+  "sign_up_email_pattern_invalid": "無効なメールアドレス",
+  "sign_up_password": "パスワード",
+  "sign_up_password_placeholder": "パスワードを設定してください",
+  "sign_up_password_pattern_invalid": "英字と数字を各1文字以上含めて、8文字以上入力してください。スペースは使用できません。",
+  "sign_up_retype_password": "パスワードを再入力してください",
+  "sign_up_retype_password_placeholder": "パスワードを確認する",
+  "sign_up_retype_password_not_match": "パスワードが正しくありません",
+  "sign_up_completed": "アカウントの作成が完了しました",
+  "sign_up_error_title": "エラー",
+  "sign_up_error_email_exist": "このメールアドレスは登録済みです",
+
+
+
+
+
+  "edit_profile_title": "アカウントプロフィール",
+  "edit_profile_nickname": "ニックネームを入力してください",
+  "edit_profile_nickname_placeholder": "ニックネーム",
+  "edit_profile_gender": "性別?",
+  "edit_profile_gender_male": "男性",
+  "edit_profile_gender_female": "女性",
+  "edit_profile_gender_other": "その他",
+  "edit_profile_age": "年齢層?",
+  "edit_profile_age_0": "20歳以下",
+  "edit_profile_age_1": "21〜30歳",
+  "edit_profile_age_2": "31〜40歳",
+  "edit_profile_age_3": "41〜50歳",
+  "edit_profile_age_4": "51〜60歳",
+  "edit_profile_age_5": "61 歳以上",
+  "edit_profile_car": "一番よく乗る車種はどれですか？",
+  "edit_profile_car_0": "コンパクトカー",
+  "edit_profile_car_1": "セダン",
+  "edit_profile_car_2": "5ドアハッチバックRV",
+  "edit_profile_car_3": "スポーツユーティリティビークル",
+  "edit_profile_car_4": "ミニバン",
+  "edit_profile_car_5": "スポーツ",
+  "edit_profile_car_6": "ピックアップトラック",
+  "edit_profile_car_7": "ハイブリッド",
+  "edit_profile_car_8": "電気自動車",
+  "edit_profile_car_9": "その他",
+  "edit_profile_no_answer": "回答できません",
+  "edit_profile_completed": "保存しました",
+  "edit_profile_error_title": "エラー",
+  "edit_profile_confirm_exit_title": "メールは正常に登録されましたが、アカウントプロファイルが完成していません。続行しますか？",
+
+
+
+
+
+  "sign_in_title": "ログイン",
+  "sign_in_email": "Eメール",
+  "sign_in_email_placeholder": "メールアドレスを入力してください",
+  "sign_in_email_pattern_invalid": "無効なメールアドレス",
+  "sign_in_password": "パスワード",
+  "sign_in_password_placeholder": "パスワードを入力してください",
+  "sign_in_password_pattern_invalid": "パスワードが無効です",
+  "sign_in_forgot": "パスワードをお忘れの方",
+  "sign_in_completed": "ログイン完了。",
+  "sign_in_error_title": "ログインできません",
+  "sign_in_error_request_failure": "メールアドレスまたはパスワードが正しくありません。ご確認の上、もう一度お試しください。",
+
+
+
+
+
+  "lost_password_title": "パスワードをリセット",
+  "lost_password_email": "登録したメールアドレスを入力してください。受け取り後、アカウントにアクセスできるリンクを送信します。",
+  "lost_password_email_placeholder": "登録したメールアドレスを入力してください",
+  "lost_password_email_pattern_invalid": "無効なメールアドレス",
+  "lost_password_completed": "リセットのリクエストが送信されました。",
+  "lost_password_error_title": "エラー",
+  "lost_password_error_request_failure": "無効のメールアドレスです。他のメールアドレスをご入力ください。",
+
+
+
+
+
+  "password_reset_password": "新しいパスワード",
+  "password_reset_password_placeholder": "新しいパスワードを入力してください",
+  "password_reset_password_pattern_invalid": "英字と数字を各1文字以上含めて、8文字以上入力してください。スペースは使用できません。",
+  "password_reset_retype_password": "新しいパスワードを再入力してください",
+  "password_reset_retype_password_placeholder": "新しいパスワードを確認してください",
+  "password_reset_retype_password_not_match": "パスワードが正しくありません",
+  "password_reset_completed": "リセット完了。",
+  "password_reset_error_title": "エラー",
+  "password_reset_error_request_failure": "サーバーエラーが発生しました。ネットワークとの接続を確認してください。",
+
+
+
+
+
+  "password_change_title": "パスワード変更",
+  "password_change_current_password": "現在のパスワード",
+  "password_change_current_password_placeholder": "現在のパスワードを入力してください",
+  "password_change_new_password": "新しいパスワード",
+  "password_change_new_password_placeholder": "新しいパスワードを入力してください",
+  "password_change_password_pattern_invalid": "英字と数字を各1文字以上含めて、8文字以上入力してください。スペースは使用できません。",
+  "password_change_retype_new_password": "新しいパスワードを再入力してください",
+  "password_change_retype_new_password_placeholder": "新しいパスワードを確認してください",
+  "password_change_retype_password_not_match": "パスワードが正しくありません",
+  "password_change_completed": "パスワードが変更されました。",
+  "password_change_error_title": "エラー",
+  "password_change_error_request_failure": "サーバーエラーが発生しました。ネットワークとの接続を確認してください。",
+
+
+
+
+
+  "sample_registration_title": "Device登録",
+  "sample_registration_serial_number": "シリアル番号 (S/N)",
+  "sample_registration_serial_number_placeholder": "Deviceのシリアル番号を入力してください",
+  "sample_registration_serial_number_note": "シリアル番号 (S/N) は、Device本体とパッケージの下面に記載されています。",
+  "sample_registration_serial_number_invalid": "無効なシリアル番号。もう一度お試しください。",
+  "sample_registration_terms": "<a href=\"https://www.sampleweb.com/sample/product/warrantyandliability\" target=\"_blank\"/>保証および責任に関する規約</a>を読んだうえで、同意します",
+  "sample_registration_completed": "登録が完了しました。",
+  "sample_registration_error_title": "登録できません",
+  "sample_registration_error_serial_number_exist": "このDeviceは登録済みです。",
+
+
+
+
+
+  "confirm_default_confirm": "確認",
+  "confirm_default_cancel": "キャンセル",
+  "confirm_exit_title": "現在の操作を取り消しますか？",
+  "confirm_exit_confirm": "いいえ",
+  "confirm_exit_cancel": "はい",
+  "confirm_request_failure_title": "サーバーにエラーが発生しました",
+  "confirm_request_server_error_content": "サーバーエラーが発生しました。ネットワークとの接続を確認してください。",
+  "confirm_request_timeout_content": "操作を完了できません （エラー408）。"
+}

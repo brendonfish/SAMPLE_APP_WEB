@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="14" height="14" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ic_web_input_valid_normal" clip-path="url(#clip-path)">
+    <path id="check_on_light" d="M10,17,5,12.192l1.4-1.346L10,14.308,17.6,7,19,8.346,10,17Z" transform="translate(-5 -5)" fill="#0f87ff" fill-rule="evenodd"/>
+    <rect id="Rectangle_1138" data-name="Rectangle 1138" width="14" height="14" fill="none"/>
+  </g>
+</svg>

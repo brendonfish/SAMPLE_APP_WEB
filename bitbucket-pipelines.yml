@@ -1,0 +1,21 @@
+# This is a sample build configuration for Other.
+# Check our guides at https://confluence.atlassian.com/x/5Q4SMw for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: atlassian/default-image:2
+
+pipelines:
+  default:
+    - step:
+        script:
+          - echo "Everything is awesome!"
+
+    - step:
+        # set AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY as environment variables
+        name: Deploy to S3
+        deployment: test   # set to test, staging or production
+        # trigger: manual  # uncomment to have a manual step
+        image: atlassian/pipelines-awscli
+        script:
+          - aws s3 sync --delete public/ s3://com.xxx.xxx.xxx

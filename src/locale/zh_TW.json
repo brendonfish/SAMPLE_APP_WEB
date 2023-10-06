@@ -1,0 +1,135 @@
+{
+  "sign_up_title": "申請新帳號",
+  "sign_up_email": "電子郵件信箱",
+  "sign_up_email_placeholder": "輸入您的電子郵件信箱",
+  "sign_up_email_pattern_invalid": "請輸入有效的電子郵件信箱",
+  "sign_up_password": "密碼",
+  "sign_up_password_placeholder": "設定您的密碼",
+  "sign_up_password_pattern_invalid": "必須超過 8 個字符，包含一個字母和一個數字。不能有空格。",
+  "sign_up_retype_password": "再次輸入密碼",
+  "sign_up_retype_password_placeholder": "確認您的密碼",
+  "sign_up_retype_password_not_match": "密碼不相符",
+  "sign_up_completed": "帳號已建立",
+  "sign_up_error_title": "錯誤",
+  "sign_up_error_email_exist": "您輸入的電子郵件信箱已被註冊",
+
+
+
+
+
+  "edit_profile_title": "會員資料",
+  "edit_profile_nickname": "輸入您的暱稱",
+  "edit_profile_nickname_placeholder": "暱稱",
+  "edit_profile_gender": "您的性別是?",
+  "edit_profile_gender_male": "男性",
+  "edit_profile_gender_female": "女性",
+  "edit_profile_gender_other": "其他",
+  "edit_profile_age": "您的年齡是?",
+  "edit_profile_age_0": "20 歲以下",
+  "edit_profile_age_1": "21 - 30 歲",
+  "edit_profile_age_2": "31 - 40 歲",
+  "edit_profile_age_3": "41 - 50 歲",
+  "edit_profile_age_4": "51 - 60 歲",
+  "edit_profile_age_5": "61 歲以上",
+  "edit_profile_car": "您平常駕駛的車款為?",
+  "edit_profile_car_0": "小型房車",
+  "edit_profile_car_1": "四門房車",
+  "edit_profile_car_2": "五門掀背房車",
+  "edit_profile_car_3": "休旅車",
+  "edit_profile_car_4": "箱型車",
+  "edit_profile_car_5": "雙門跑車",
+  "edit_profile_car_6": "皮卡車",
+  "edit_profile_car_7": "油電混合車",
+  "edit_profile_car_8": "電動車",
+  "edit_profile_car_9": "其他",
+  "edit_profile_no_answer": "我不想回答",
+  "edit_profile_completed": "已儲存",
+  "edit_profile_error_title": "錯誤",
+  "edit_profile_confirm_exit_title": "您的電子郵件已成功註冊，但您的會員資料尚未完成。是否要繼續呢？",
+
+
+
+
+
+  "sign_in_title": "登入",
+  "sign_in_email": "電子信箱",
+  "sign_in_email_placeholder": "輸入您的電子郵件信箱",
+  "sign_in_email_pattern_invalid": "請輸入有效的電子郵件信箱",
+  "sign_in_password": "密碼",
+  "sign_in_password_placeholder": "輸入您的密碼",
+  "sign_in_password_pattern_invalid": "密碼錯誤",
+  "sign_in_forgot": "忘記密碼",
+  "sign_in_completed": "登入成功",
+  "sign_in_error_title": "登入出現錯誤",
+  "sign_in_error_request_failure": "您輸入的電子信箱或密碼有誤，請再試一次。",
+
+
+
+
+
+  "lost_password_title": "密碼重設",
+  "lost_password_email": "請輸入您註冊的電子信箱，我們稍後將發送一個登入連結給您。",
+  "lost_password_email_placeholder": "輸入您的註冊電子信箱",
+  "lost_password_email_pattern_invalid": "請輸入有效的電子郵件信箱",
+  "lost_password_completed": "密碼重設的請求已送出",
+  "lost_password_error_title": "錯誤",
+  "lost_password_error_request_failure": "您輸入的電子信箱有誤，請再試一次。",
+
+
+
+
+
+  "password_reset_password": "新的密碼",
+  "password_reset_password_placeholder": "設定您的新密碼",
+  "password_reset_password_pattern_invalid": "必須超過 8 個字符，包含一個字母和一個數字。不能有空格。",
+  "password_reset_retype_password": "再次輸入新密碼",
+  "password_reset_retype_password_placeholder": "確認您的新密碼",
+  "password_reset_retype_password_not_match": "密碼不相符",
+  "password_reset_completed": "密碼重設成功",
+  "password_reset_error_title": "錯誤",
+  "password_reset_error_request_failure": "無法連接至伺服器，請確認網路連線。",
+
+
+
+
+
+  "password_change_title": "更改密碼",
+  "password_change_current_password": "目前的密碼",
+  "password_change_current_password_placeholder": "輸入您目前使用的密碼",
+  "password_change_new_password": "新的密碼",
+  "password_change_new_password_placeholder": "設定您的新密碼",
+  "password_change_password_pattern_invalid": "必須超過 8 個字符，包含一個字母和一個數字。不能有空格。",
+  "password_change_retype_new_password": "再次輸入新密碼",
+  "password_change_retype_new_password_placeholder": "確認您的新密碼",
+  "password_change_retype_password_not_match": "密碼不相符",
+  "password_change_completed": "密碼變更成功",
+  "password_change_error_title": "錯誤",
+  "password_change_error_request_failure": "無法連接至伺服器，請確認網路連線。",
+
+
+
+
+
+  "sample_registration_title": "Device 保固註冊",
+  "sample_registration_serial_number": "產品序號 (S/N)",
+  "sample_registration_serial_number_placeholder": "請輸入您持有的 Device 的產品序號",
+  "sample_registration_serial_number_note": "序號 (S/N) 位於 Device 裝置及其包裝的下方。",
+  "sample_registration_serial_number_invalid": "您輸入的產品序號是錯誤的，請檢查後重試。",
+  "sample_registration_terms": "我已閱讀並接受 <a href=\"https://www.sampleweb.com/sample/product/warrantyandliability\" target=\"_blank\"/>Device 的產品保固和責任條款</a>",
+  "sample_registration_completed": "註冊成功",
+  "sample_registration_error_title": "無法註冊",
+  "sample_registration_error_serial_number_exist": "您輸入的產品序號已被註冊。",
+
+
+
+
+
+  "confirm_default_confirm": "確認",
+  "confirm_default_cancel": "取消",
+  "confirm_exit_title": "您確定要取消目前的動作嗎？",
+  "confirm_exit_confirm": "取消",
+  "confirm_exit_cancel": "確認",
+  "confirm_request_failure_title": "伺服器發生錯誤",
+  "confirm_request_server_error_content": "無法連接至伺服器，請確認網路連線。",
+  "confirm_request_timeout_content": "無法完成操作 (錯誤408)。"
+}

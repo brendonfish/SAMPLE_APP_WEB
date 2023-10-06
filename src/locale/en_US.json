@@ -1,0 +1,135 @@
+{
+  "sign_up_title": "Create New Account",
+  "sign_up_email": "Email",
+  "sign_up_email_placeholder": "Enter your email address",
+  "sign_up_email_pattern_invalid": "Invalid email",
+  "sign_up_password": "Password",
+  "sign_up_password_placeholder": "Setup your password",
+  "sign_up_password_pattern_invalid": "New password must have at least 8 characters with at least one letter, and one number with no space in between.",
+  "sign_up_retype_password": "Retype Password",
+  "sign_up_retype_password_placeholder": "Confirm your password",
+  "sign_up_retype_password_not_match": "Password does not match",
+  "sign_up_completed": "Account created!",
+  "sign_up_error_title": "Error",
+  "sign_up_error_email_exist": "This email has been registered",
+
+
+
+
+
+  "edit_profile_title": "Account Profile",
+  "edit_profile_nickname": "Enter your nickname",
+  "edit_profile_nickname_placeholder": "Nickname",
+  "edit_profile_gender": "What's your gender?",
+  "edit_profile_gender_male": "Male",
+  "edit_profile_gender_female": "Female",
+  "edit_profile_gender_other": "Other",
+  "edit_profile_age": "What's your age group?",
+  "edit_profile_age_0": "Age 20 and below",
+  "edit_profile_age_1": "Age 21 - 30",
+  "edit_profile_age_2": "Age 31 - 40",
+  "edit_profile_age_3": "Age 41 - 50",
+  "edit_profile_age_4": "Age 51 - 60",
+  "edit_profile_age_5": "Age 61 and above",
+  "edit_profile_car": "What type of car do you drive the most?",
+  "edit_profile_car_0": "Compact Car",
+  "edit_profile_car_1": "4 Door Sedan",
+  "edit_profile_car_2": "5 Door Hatchback",
+  "edit_profile_car_3": "SUV",
+  "edit_profile_car_4": "Minivan/ Van",
+  "edit_profile_car_5": "Sports Car",
+  "edit_profile_car_6": "Pickup Truck",
+  "edit_profile_car_7": "Hybrid Car",
+  "edit_profile_car_8": "Electric Car",
+  "edit_profile_car_9": "Other",
+  "edit_profile_no_answer": "I prefer not to answer",
+  "edit_profile_completed": "Saved",
+  "edit_profile_error_title": "Error",
+  "edit_profile_confirm_exit_title": "Your email has been registered successfully, but your account profile has not been completed. Would you like to continue?",
+
+
+
+
+
+  "sign_in_title": "Login",
+  "sign_in_email": "Email",
+  "sign_in_email_placeholder": "Enter your email address",
+  "sign_in_email_pattern_invalid": "Invalid email",
+  "sign_in_password": "Password",
+  "sign_in_password_placeholder": "Enter your password",
+  "sign_in_password_pattern_invalid": "Invalid password",
+  "sign_in_forgot": "Forget password",
+  "sign_in_completed": "Login success!",
+  "sign_in_error_title": "Unable to login",
+  "sign_in_error_request_failure": "Invalid email or password. Please try again.",
+
+
+
+
+
+  "lost_password_title": "Reset Password",
+  "lost_password_email": "Enter you registered email, once we receive  it we will send you a link to access your account.",
+  "lost_password_email_placeholder": "Enter your registered email address",
+  "lost_password_email_pattern_invalid": "Invalid email",
+  "lost_password_completed": "A request to reset has been sent.",
+  "lost_password_error_title": "Error",
+  "lost_password_error_request_failure": "Invalid email, please try again.",
+
+
+
+
+
+  "password_reset_password": "New Password",
+  "password_reset_password_placeholder": "Setup your new password",
+  "password_reset_password_pattern_invalid": "New password must have at least 8 characters with at least one letter, and one number with no space in between.",
+  "password_reset_retype_password": "Retype New Password",
+  "password_reset_retype_password_placeholder": "Confirm your new password",
+  "password_reset_retype_password_not_match": "Password does not match",
+  "password_reset_completed": "Reset completed!",
+  "password_reset_error_title": "Error",
+  "password_reset_error_request_failure": "Unable to connect to server, please check your data connection.",
+
+
+
+
+
+  "password_change_title": "Change Password",
+  "password_change_current_password": "Current Password",
+  "password_change_current_password_placeholder": "Enter your current password",
+  "password_change_new_password": "New Password",
+  "password_change_new_password_placeholder": "Setup your new password",
+  "password_change_password_pattern_invalid": "New password must have at least 8 characters with at least one letter, and one number with no space in between.",
+  "password_change_retype_new_password": "Retype New Password",
+  "password_change_retype_new_password_placeholder": "Confirm your new password",
+  "password_change_retype_password_not_match": "Password does not match",
+  "password_change_completed": "Password changed!",
+  "password_change_error_title": "Error",
+  "password_change_error_request_failure": "Unable to connect to server, please check your data connection.",
+
+
+
+
+
+  "sample_registration_title": "Device Registration",
+  "sample_registration_serial_number": "Serial Number (S/N)",
+  "sample_registration_serial_number_placeholder": "Enter your Device's serial number",
+  "sample_registration_serial_number_note": "The serial number (S/N) is located on the bottom of the Device device and its packaging.",
+  "sample_registration_serial_number_invalid": "Invalid serial number, please try again.",
+  "sample_registration_terms": "I’ve read it and accept <a href=\"https://www.sampleweb.com/sample/product/warrantyandliability\" target=\"_blank\"/>terms of Warranty and Liability</a>",
+  "sample_registration_completed": "Successfully registered!",
+  "sample_registration_error_title": "Unable to register",
+  "sample_registration_error_serial_number_exist": "This Device is already registered.",
+
+
+
+
+
+  "confirm_default_confirm": "OK",
+  "confirm_default_cancel": "Cancel",
+  "confirm_exit_title": "Would you like to cancel your current action?",
+  "confirm_exit_confirm": "No",
+  "confirm_exit_cancel": "Yes",
+  "confirm_request_failure_title": "Server Error",
+  "confirm_request_server_error_content": "Unable to connect to server, please check your data connection.",
+  "confirm_request_timeout_content": "Unable to complete action (Error 408)."
+}
